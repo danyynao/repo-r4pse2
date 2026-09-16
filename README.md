@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · El6vfXRs -->
-## Notification 1/2
-Round: Round 1
-To: lctoh@salesforce.com, frank.fama@bnymellon.com
-At: 2026-09-16 14:01:54
-Id: El6vfXRs
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: qnpeteet@hotmail.com, plbouchard@comcast.net
+At: 2026-09-16 14:02:03
+Id: ZKzkPxgZ
